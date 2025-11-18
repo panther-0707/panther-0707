@@ -16,8 +16,7 @@
 
 ```yaml
 current_focus:
-  Education: 2nd Year @ The University of Edinburgh
-  work: "DevOps for Autonomous Vehicles at EUFS"
+  work: "DevOps for Autonomous Vehicles at Formula Student
   activities:
     - Automating CI/CD pipelines
     - Managing AWS infrastructure
