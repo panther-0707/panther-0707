@@ -85,8 +85,7 @@ achievements:
 
 ## 💼 Experience
 
-### DevOps Engineer - Edinburgh University Formula Student (EUFS)
-**Location:** Edinburgh, Scotland
+### DevOps Engineer - Formula Student
 **Role:** DevOps Engineer for Autonomous Racing Team
 
 **Responsibilities:**
