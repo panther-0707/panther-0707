@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-> **BEng Computer Science** student at the **University of Edinburgh** (Sept 2024 – May 2028). Currently **Head of DevOps** at Edinburgh University Formula Student (EUFS), leading the sub-team behind our CLI tooling, GitLab CI/CD, and FastAPI/AWS S3 services. 🏎️
+> **BEng Computer Science** student at the **University of Edinburgh**. Currently **Head of DevOps** at Edinburgh University Formula Student (EUFS), leading the sub-team behind our CLI tooling, GitLab CI/CD, and FastAPI/AWS S3 services. 🏎️
 
 ```yaml
 current_role:
