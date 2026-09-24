@@ -126,20 +126,7 @@ Open-source static analysis tool detecting **prompt injection vulnerabilities** 
   <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=panther-0707&limit=5&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3BAAFF&text_color=FFFFFF&combine_all_yearly_contributions=true" alt="Top Contributed Repos"/>
 </div>
 
----
 
-## 💬 Let's Connect!
-
-<div align="center">
-
-**Ask me about:** DevOps • CI/CD Security • Docker • Python/FastAPI • AI-Integrated Pipeline Security • Linux/Unix
-
-**Open to collaborate on:** Dev security tooling • DevOps utilities • Open-source projects
-
-[![GitHub](https://img.shields.io/badge/GitHub-panther--0707-181717?style=for-the-badge&logo=github)](https://github.com/panther-0707)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-khalid--elbagir-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/khalid-elbagir)
-
-</div>
 
 ---
 
