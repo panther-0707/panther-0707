@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=3BAAFF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+Hello!;Software+Engineering+Student;DevOps+Enthusiast;AI+%26+Cloud+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=3BAAFF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Khalid;Head+of+DevOps+%40+EUFS;Computer+Science+%40+Edinburgh;Security-Minded+Dev+Tooling" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -12,28 +12,28 @@
 
 ## 👨‍💻 About Me
 
-> A motivated **Software Engineering student** passionate about building reliable and scalable software. I have hands-on experience in **DevOps**, **AI-assisted development**, and **team-based software engineering**.
+> **BEng Computer Science** student at the **University of Edinburgh** (Sept 2024 – May 2028). Currently **Head of DevOps** at Edinburgh University Formula Student (EUFS), leading the sub-team behind our CLI tooling, GitLab CI/CD, and FastAPI/AWS S3 services. 🏎️
 
 ```yaml
-current_focus:
-  work: "DevOps for Autonomous Vehicles at Formula Student
-  activities:
-    - Automating CI/CD pipelines
-    - Managing AWS infrastructure
-    - Building scalable systems
+current_role:
+  title: "Head of DevOps, EUFS"
+  since: "Aug 2026"
+  focus:
+    - Leading developer platform sub-team
+    - GitLab CI/CD pipeline ownership
+    - FastAPI + AWS S3 service design
+
+recent_wins:
+  - "Fixed a YAML deserialisation RCE vulnerability 🔒"
+  - "Built a 180+ unit test pytest suite from zero coverage"
+  - "Published gh-prompt-scan to PyPI + GitHub Marketplace"
+  - "Finalist, openEuler Challenge Week Hackathon 2025 🏆"
+  - "FSUK 2026: 2x FS-AI category wins + first full ADS
+     scrutineering pass by a UK team 🚗"
 
 learning:
-  - Advanced Kubernetes
-  - MLOps
-  - System Design
-
-interests:
-  - AI developer tools
-  - Open-source DevOps utilities
-  - Linux productivity projects
-
-achievements:
-  - "Finalist at OpenEuler Challenge Week Hackathon 2025"
+  - System design
+  - Deeper AI & security tooling
 ```
 
 ---
@@ -46,56 +46,71 @@ achievements:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Bash](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 🚀 Frameworks & Libraries
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/pydantic-%23E92063.svg?style=for-the-badge&logo=pydantic&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=python&logoColor=white)
+![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
 
 ### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS_S3-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-4285F4?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ### 🗃️ Databases
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🛠️ Tools & Platforms
+### 🧪 Testing & Code Quality
+![Pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![mypy](https://img.shields.io/badge/mypy-checked-2A6DB2?style=for-the-badge)
+![flake8](https://img.shields.io/badge/flake8-checked-blue?style=for-the-badge)
+
+### 🛠️ Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-### 💻 Developer Tools
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
 
 ---
 
 ## 💼 Experience
 
-### DevOps Engineer - Formula Student
-**Role:** DevOps Engineer for Autonomous Racing Team
+### 🏎️ Edinburgh University Formula Student (EUFS)
 
-**Responsibilities:**
-- 🚀 **CI/CD Pipeline Development:** Design and implement automated build, test, and deployment workflows using GitLab CI, Docker, and Bash scripting to accelerate development cycles
-- 🧪 **Test Automation:** Develop comprehensive test automation frameworks and deployment workflows to ensure code quality and system reliability
-- ☁️ **AWS Infrastructure Management:** Manage and optimize AWS infrastructure for real-time telemetry systems, ensuring high availability and performance
-- 📊 **Pydantic Schema Development:** Design and implement Pydantic schemas for cloud API optimization, improving data validation and system efficiency
-- 🤝 **Cross-Functional Collaboration:** Work closely with perception, control, and software teams to integrate DevOps best practices across the autonomous vehicle development pipeline
-- 📡 **Real-Time Telemetry Deployment:** Deploy and maintain real-time telemetry systems for race car performance monitoring and data analysis
-- 🔧 **CI Support for Perception & Control:** Provide continuous integration support for perception and control systems, enabling rapid iteration and testing of autonomous driving algorithms
+**Head of DevOps** · Aug 2026 – Present
+- Lead the sub-team owning the team's developer platform: CLI tooling, GitLab CI/CD pipelines, and FastAPI/AWS S3 services
+
+**Software Engineering Intern, DevOps Sub-team** · June 2026 – Aug 2026
+- 🔍 Audited 3 Python repos (CLI, FastAPI, ROS 2) → 39-issue backlog, 19+ bugs fixed, including a critical YAML deserialisation RCE vulnerability
+- 🧪 Built a pytest suite from scratch for a 13-module CLI monorepo: 180+ unit tests with `unittest.mock` and filesystem fixtures, catching 4 latent production bugs
+- 🛠️ Fixed a data-integrity bug in a REST DELETE endpoint — implemented synchronous deletion across AWS S3 (boto3) and PostgreSQL (SQLAlchemy) with partial-failure handling
+- 🚦 Root-caused shared GitLab CI/CD failures (dependency clashes, mypy resolution collisions, rosdep misconfig) and shipped an approved infra fix
+
+**Software Team Member, DevOps Sub-team** · Sept 2025 – May 2026
+- Contributed bug fixes, features, and CI/CD improvements via GitLab MRs + peer review
+- Part of the software behind FSUK 2026: 2x FS-AI category wins (Ansys Autonomous Design; Simulation Development) + first full ADS scrutineering pass by a UK team
+
+---
+
+## 🚀 Featured Projects
+
+### [gh-prompt-scan](https://github.com/panther-0707) — Python, Click, PyYAML, pytest, GitHub Actions
+Open-source static analysis tool detecting **prompt injection vulnerabilities** in AI-integrated GitHub Actions pipelines, based on 2026 NUS/ByteDance security research.
+- Cross-step taint analysis tracing attacker-controlled GitHub event data to LLM prompts & shell sinks — detects 4 threat vectors
+- 📦 Published on **PyPI** (`pip install gh-prompt-scan`) and the **GitHub Actions Marketplace**
+
+### Samantha – AI Terminal Assistant — Python, Docker, openEuler Linux, LLM APIs
+- 🏆 Led a 5-person team to the **final of the openEuler Challenge Week Hackathon 2025**
+- Built a natural-language-to-JSON planning pipeline (pronoun resolution, typo self-correction, content-aware file search) powered by Qwen3-Coder-480B
+- Safety-first execution engine with previews/confirmations — 95% success rate on multi-step commands
 
 ---
 
@@ -117,11 +132,12 @@ achievements:
 
 <div align="center">
 
-**Ask me about:** CI/CD • Docker • Python/Java Development • REST APIs • Linux/Unix • AI Integration • Autonomous Vehicle DevOps
+**Ask me about:** DevOps • CI/CD Security • Docker • Python/FastAPI • AI-Integrated Pipeline Security • Linux/Unix
 
-**Open to collaborate on:** AI developer tools • DevOps utilities • Open-source projects
+**Open to collaborate on:** Dev security tooling • DevOps utilities • Open-source projects
 
 [![GitHub](https://img.shields.io/badge/GitHub-panther--0707-181717?style=for-the-badge&logo=github)](https://github.com/panther-0707)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-khalid--elbagir-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/khalid-elbagir)
 
 </div>
 
