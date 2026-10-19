@@ -113,7 +113,7 @@ Open-source static analysis tool detecting **prompt injection vulnerabilities** 
 - Plans scenic walking routes that detour past street art, viewpoints, parks, history and coffee while still arriving on time ⏱️
 - Scores places from OpenStreetMap data (Overpass, with ORS and Wikipedia fallbacks), then picks stops by value per extra second of walking using a **VROOM** solver
 - Validates every route against real routing engines (OpenRouteService → OSRM), adding or dropping stops until the walk fits the time budget 🗺️
-- 🌐 [Live demo](https://ai-hackathon-oct-2026.vercel.app)
+- 🌐 [Live demo](https://adventure-maps.vercel.app/)
 
 ### Samantha – AI Terminal Assistant — Python, Docker, openEuler Linux, LLM APIs
 - 🏆 Led a 5-person team to the **final of the openEuler Challenge Week Hackathon 2025**
