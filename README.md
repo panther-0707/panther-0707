@@ -107,6 +107,14 @@ Open-source static analysis tool detecting **prompt injection vulnerabilities** 
 - Cross-step taint analysis tracing attacker-controlled GitHub event data to LLM prompts & shell sinks — detects 4 threat vectors
 - 📦 Published on **PyPI** (`pip install gh-prompt-scan`) and the **GitHub Actions Marketplace**
 
+
+### [Adventure Maps](https://github.com/panther-0707/Adventure-Maps) — Python, FastAPI, React, MapLibre GL, OpenRouteService
+🧭 Time-budgeted walking navigation app that answers *"what's the nicest way, given the time I've got?"* instead of *"what's the fastest?"* Built at the **AI Hackathon, October 2026**.
+- Plans scenic walking routes that detour past street art, viewpoints, parks, history and coffee while still arriving on time ⏱️
+- Scores places from OpenStreetMap data (Overpass, with ORS and Wikipedia fallbacks), then picks stops by value per extra second of walking using a **VROOM** solver
+- Validates every route against real routing engines (OpenRouteService → OSRM), adding or dropping stops until the walk fits the time budget 🗺️
+- 🌐 [Live demo](https://ai-hackathon-oct-2026.vercel.app)
+
 ### Samantha – AI Terminal Assistant — Python, Docker, openEuler Linux, LLM APIs
 - 🏆 Led a 5-person team to the **final of the openEuler Challenge Week Hackathon 2025**
 - Built a natural-language-to-JSON planning pipeline (pronoun resolution, typo self-correction, content-aware file search) powered by Qwen3-Coder-480B
