@@ -102,6 +102,13 @@ learning:
 
 ## 🚀 Featured Projects
 
+### [miniLB](https://github.com/panther-0707/Redis) — C++17, Boost.Asio, Redis, CMake, GoogleTest, Docker
+⚖️ Multithreaded **HTTP/1.1 load balancer** and reverse proxy on an asynchronous Boost.Asio event loop, using **Redis** for response caching and rate limiting.
+- Spreads traffic with round robin, least connections or weighted balancing; health checks remove failed backends and requests are retried elsewhere 🔁
+- Rate-limits clients and serves cached responses from Redis, and keeps serving if Redis goes down
+- 🧪 107 unit tests + 25 integration tests against real backend and Redis processes, run under ThreadSanitizer and AddressSanitizer in GitHub Actions CI
+- 📐 [Architecture and design decisions](https://github.com/panther-0707/Redis#architecture)
+
 ### [gh-prompt-scan](https://github.com/panther-0707) — Python, Click, PyYAML, pytest, GitHub Actions
 Open-source static analysis tool detecting **prompt injection vulnerabilities** in AI-integrated GitHub Actions pipelines, based on 2026 NUS/ByteDance security research.
 - Cross-step taint analysis tracing attacker-controlled GitHub event data to LLM prompts & shell sinks — detects 4 threat vectors
